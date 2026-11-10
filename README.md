@@ -1,41 +1,60 @@
-Welcome to my Git profile.
+Thank you for visiting my Git profile.
 
-A list of some of my public projects follows. I have tried to categorise them a bit.
+I enjoy programming and have been doing it for many years now. I prefer working on the backend with
+statically typed, compiled languages, but I care a lot about good user experience and interfaces,
+too.\
+Most of my experience is (in no particular order) with Java, C#, F#, C, Go, Python, PowerShell,
+and SQL, but I have also done a few things in languages like C++, Rust, and TypeScript.
 
-Most of my experience is with Java, C#, C, Go, Python, and SQL, but there
-are also projects in other languages like C++, Rust, F#, and TypeScript.
+I have compiled a list of some of my public personal projects below, and I hope they can be helpful
+ to your own development process or learning. Do not hesitate to make pull requests or open issues.
 
-I'm not particularly excited about LLMs, so you can be sure that any questionable code below is my own ;)
+I'm not particularly interested in LLMs, so you can be sure that any questionable code is my own ;)
+
+### Currently working on:
+[Gown](https://github.com/lfknudsen/gown):
+Universal download server. Also works as a standalone local command-line programme.\
+Fully functional, but I want to tie it to a message queue with a variable number of worker nodes.
+
+[Convoy](https://github.com/lfknudsen/convoy):
+Message queue intended to work with Gown.
+
+[Mark](https://github.com/lfknudsen/mark):
+Bookmark database and management thereof.\
+When used as a standalone local application, can also import bookmarks from your browsers.
+
+[Pact](https://github.com/lfknudsen/pact):
+A private package manager.
+
+[Jade](https://github.com/lfknudsen/jade):
+Cloud drive akin to Dropbox, Mega, Google Drive, etc. - but better.
+
+[Vauth](https://github.com/lfknudsen/vauth):
+Command-line password manager.
 
 ### Desktop applications
 
 [Regless](https://github.com/lfknudsen/Regless):
 Tool for developing regular expressions built in Java with JavaFX.
 
-### Server-related programmes (Go, Flutter/Dart)
+[FindDuplicateDirs](https://github.com/lfknudsen/FindDuplicateDirs):
+Tool to locate directories with the same name.
 
-[Gown](https://github.com/lfknudsen/gown):
-Universal download server. Also works as a standalone local command-line programme.
+### Server-related programmes (Go, Flutter/Dart)
 
 [Plume](https://github.com/lfknudsen/plume):
 File upload server.
 
-[Mark](https://github.com/lfknudsen/mark):
-Bookmark database and management thereof.\
-When used locally, can also import bookmarks from your browsers.
-
-[Convoy](https://github.com/lfknudsen/convoy):
-Message queue intended to work with Gown.
-
-[Pact](https://github.com/lfknudsen/pact):
-A private package manager.
-
 [Tiara](https://github.com/lfknudsen/tiara):
 Shared frontend for Gown, Mark, and Plume.
 
-[Jade](https://github.com/lfknudsen/jade):
-File management server akin to Dropbox, Mega, Google Drive, etc. - but with
-a few unique features like tags.
+#### Stubs
+
+[Distributed Exclusion](https://github.com/lfknudsen/DistEx):
+A minimal implementation of the Ricart & Agrawala distributed exclusion algorithm.
+
+[Distributed Replication](https://github.com/lfknudsen/Replication):
+A minimal implementation of an algorithm for distributed database replication.
 
 ### CLI Utilities (Go, C, F#, Python)
 
@@ -54,7 +73,7 @@ Will retry once on failure.
 Easily generate a suitable `.gitignore` file.
 
 [Guid/Uuid](https://github.com/lfknudsen/guid):
-Generate a UUID automatically copied to your system clipboard.
+Generate a UUID that is automatically copied to your system clipboard.
 Can also generate multiple at once.
 
 [Colour](https://github.com/lfknudsen/colour):
@@ -62,16 +81,14 @@ Prints a table of ANSI colour codes.
 If a number is given, it will display that particular colour code's output.
 
 [Optimg](https://github.com/lfknudsen/optimg):
-Optimises images using IrfanView and OptiPNG.
+Optimises images using IrfanView and OptiPNG. Resamples exceedingly large files, converts .jpeg to
+.png, and performs serious lossless compression.
 
 [Status](https://github.com/lfknudsen/status):
 Reference HTTP status codes by searching for the code or name.
 
 [Conv](https://github.com/lfknudsen/conv):
-Currency, weight, and distance conversion in the command-line.
-
-[Vauth](https://github.com/lfknudsen/vauth):
-Command-line password manager.
+Currency, weight, volume, and distance conversion in the command-line.
 
 [Gaze](https://github.com/lfknudsen/gaze):
 Lists all the video files in the current directory, displaying their resolution, frame-rate, and bit-rate.
@@ -80,13 +97,16 @@ Lists all the video files in the current directory, displaying their resolution,
 Lists all the files and sub-directories in the current directory, displaying
 the size of each - even the sub-directories.
 
+[NoTS](https://github.com/lfknudsen/nots):
+**No** **T**railing **S**paces - Removes trailing whitespace from input file(s).
+
 [Pykedex](https://github.com/lfknudsen/pykedex):
 A command-line Pokédex.
 
 #### Time-related utilities (Go)
 
 [Timestamp](https://github.com/lfknudsen/timestamp):
-Get the current UNIX timestamp automatically copied to your system clipboard.
+Get the current Unix timestamp automatically copied to your system clipboard.
 
 [Timer](https://github.com/lfknudsen/timer):
 Start a timer, displaying the time left. Plays a sound when finished.
@@ -102,6 +122,12 @@ Print the current date and time.
 [Imari](https://github.com/lfknudsen/imari):
 Extension methods for easier image editing in C#.
 
+[Fiesta](https://github.com/lfknudsen/fiesta):
+A tiny F# unit testing framework. Mostly made for fun; I tend to use XUnit or similar in practice.
+
+[LexGo](https://github.com/lfknudsen/LexGo)
+A simple little lexer.
+
 ### Old programmes
 
 [Scar](https://github.com/lfknudsen/scar):
@@ -111,8 +137,8 @@ I believe I broke it at some point while trying to add conditional statements;
 A good reminder to use dev branches. If nothing else, maybe someone will enjoy
 looking at my terrible old C code :)
 
-[mangaDB](https://github.com/lfknudsen/mangaDB):
-A simple Flask website and database backend for managing a book/comic collection.
+[MangaDB](https://github.com/lfknudsen/mangaDB):
+A simple Flask website frontend and database backend for managing a book/comic collection.
 
 ## Environment
 
@@ -145,6 +171,15 @@ For each input, removes the given prefix/suffix.
 
 [Merge](https://github.com/lfknudsen/pwsh/blob/main/Merge.ps1):
 Joins together the input strings, putting the first argument in-between each element.
+
+## Non-public projects
+
+Some private university projects include:
+- A Reddit-inspired social media phone app (React Native + TypeScript) with a Python FastAPI API-layer and PostgreSQL database
+that supported registration and login via WhatsApp and e-mail. Also my first opportunity to try Scrum.
+- A minimal GDPR-compliant Twitter clone in C# and Asp.Net Core deployed to Azure.
+- A map and route-finding application written in Java with JavaFX.
+- User-driven design and development as we worked with real users of an existing application.
 
 ## Other hosts
 
