@@ -12,132 +12,132 @@ I have compiled a list of some of my public personal projects below, and I hope 
 I'm not particularly interested in LLMs, so you can be sure that any questionable code is my own ;)
 
 ### Currently working on:
-[Gown](https://github.com/lfknudsen/gown):
+![Go icon](go_icon.png)[Gown](https://github.com/lfknudsen/gown):
 Universal download server. Also works as a standalone local command-line programme.\
 Fully functional, but I want to tie it to a message queue with a variable number of worker nodes.
 
-[Convoy](https://github.com/lfknudsen/convoy):
+![Go icon](go_icon.png)[Convoy](https://github.com/lfknudsen/convoy):
 Message queue intended to work with Gown.
 
-[Mark](https://github.com/lfknudsen/mark):
+![Go icon](go_icon.png)[Mark](https://github.com/lfknudsen/mark):
 Bookmark database and management thereof.\
 When used as a standalone local application, can also import bookmarks from your browsers.
 
-[Pact](https://github.com/lfknudsen/pact):
+![Go icon](go_icon.png)[Pact](https://github.com/lfknudsen/pact):
 A private package manager.
 
-[Jade](https://github.com/lfknudsen/jade):
+![Go icon](go_icon.png)[Jade](https://github.com/lfknudsen/jade):
 Cloud drive akin to Dropbox, Mega, Google Drive, etc. - but better.
 
-[Vauth](https://github.com/lfknudsen/vauth):
+![Go icon](go_icon.png)[Vauth](https://github.com/lfknudsen/vauth):
 Command-line password manager.
 
 ### Desktop applications
 
-[Regless](https://github.com/lfknudsen/Regless):
+![Java icon](java_icon.png)[Regless](https://github.com/lfknudsen/Regless):
 Tool for developing regular expressions built in Java with JavaFX.
 
-[FindDuplicateDirs](https://github.com/lfknudsen/FindDuplicateDirs):
+![C# icon](cs_icon.png)[FindDuplicateDirs](https://github.com/lfknudsen/FindDuplicateDirs):
 Tool to locate directories with the same name.
 
 ### Server-related programmes (Go, Flutter/Dart)
 
-[Plume](https://github.com/lfknudsen/plume):
+![Go icon](go_icon.png)[Plume](https://github.com/lfknudsen/plume):
 File upload server.
 
-[Tiara](https://github.com/lfknudsen/tiara):
+![Dart icon](dart_icon.png)[Tiara](https://github.com/lfknudsen/tiara):
 Shared frontend for Gown, Mark, and Plume.
 
 #### Stubs
 
-[Distributed Exclusion](https://github.com/lfknudsen/DistEx):
+![Go icon](go_icon.png)[Distributed Exclusion](https://github.com/lfknudsen/DistEx):
 A minimal implementation of the Ricart & Agrawala distributed exclusion algorithm.
 
-[Distributed Replication](https://github.com/lfknudsen/Replication):
+![Go icon](go_icon.png)[Distributed Replication](https://github.com/lfknudsen/Replication):
 A minimal implementation of an algorithm for distributed database replication.
 
 ### CLI Utilities (Go, C, F#, Python)
 
-[Install](https://github.com/lfknudsen/install):
+![Go icon](go_icon.png)[Install](https://github.com/lfknudsen/install):
 Install files on your PATH by moving them to the same location as this executable.
 
-[Repo](https://github.com/lfknudsen/repo):
+![Go icon](go_icon.png)[Repo](https://github.com/lfknudsen/repo):
 Conveniently create and update remote repositories with multiple hosts
 from a single command-line interface.
 
-[Push](https://github.com/lfknudsen/push):
+![Go icon](go_icon.png)[Push](https://github.com/lfknudsen/push):
 Executes `git push` on each remote registered to the current Git repository.
 Will retry once on failure.
 
-[Gignore](https://github.com/lfknudsen/Gignore):
+![F# icon](fs_icon.png)[Gignore](https://github.com/lfknudsen/Gignore):
 Easily generate a suitable `.gitignore` file.
 
-[Guid/Uuid](https://github.com/lfknudsen/guid):
+![Go icon](go_icon.png)[Guid/Uuid](https://github.com/lfknudsen/guid):
 Generate a UUID that is automatically copied to your system clipboard.
 Can also generate multiple at once.
 
-[Colour](https://github.com/lfknudsen/colour):
+![Go icon](go_icon.png)[Colour](https://github.com/lfknudsen/colour):
 Prints a table of ANSI colour codes.
 If a number is given, it will display that particular colour code's output.
 
-[Optimg](https://github.com/lfknudsen/optimg):
+![Go icon](go_icon.png)[Optimg](https://github.com/lfknudsen/optimg):
 Optimises images using IrfanView and OptiPNG. Resamples exceedingly large files, converts .jpeg to
 .png, and performs serious lossless compression.
 
-[Status](https://github.com/lfknudsen/status):
+![Go icon](go_icon.png)[Status](https://github.com/lfknudsen/status):
 Reference HTTP status codes by searching for the code or name.
 
-[Conv](https://github.com/lfknudsen/conv):
+![C icon](c_icon.png)[Conv](https://github.com/lfknudsen/conv):
 Currency, weight, volume, and distance conversion in the command-line.
 
-[Gaze](https://github.com/lfknudsen/gaze):
+![Go icon](go_icon.png)[Gaze](https://github.com/lfknudsen/gaze):
 Lists all the video files in the current directory, displaying their resolution, frame-rate, and bit-rate.
 
-[Lsf](https://github.com/lfknudsen/lsf):
+![F# icon](fs_icon.png)[Lsf](https://github.com/lfknudsen/lsf):
 Lists all the files and sub-directories in the current directory, displaying
 the size of each - even the sub-directories.
 
-[NoTS](https://github.com/lfknudsen/nots):
+![Go icon](go_icon.png)[NoTS](https://github.com/lfknudsen/nots):
 **No** **T**railing **S**paces - Removes trailing whitespace from input file(s).
 
-[Pykedex](https://github.com/lfknudsen/pykedex):
+![Python icon](py_icon.png)[Pykedex](https://github.com/lfknudsen/pykedex):
 A command-line Pokédex.
 
 #### Time-related utilities (Go)
 
-[Timestamp](https://github.com/lfknudsen/timestamp):
+![Go icon](go_icon.png)[Timestamp](https://github.com/lfknudsen/timestamp):
 Get the current Unix timestamp automatically copied to your system clipboard.
 
-[Timer](https://github.com/lfknudsen/timer):
+![Go icon](go_icon.png)[Timer](https://github.com/lfknudsen/timer):
 Start a timer, displaying the time left. Plays a sound when finished.
 
-[Stopwatch](https://github.com/lfknudsen/stopwatch):
+![Go icon](go_icon.png)[Stopwatch](https://github.com/lfknudsen/stopwatch):
 Start a stopwatch.
 
-[Clock](https://github.com/lfknudsen/clock):
+![Go icon](go_icon.png)[Clock](https://github.com/lfknudsen/clock):
 Print the current date and time.
 
 ### Libraries
 
-[Imari](https://github.com/lfknudsen/imari):
+![C# icon](cs_icon.png)[Imari](https://github.com/lfknudsen/imari):
 Extension methods for easier image editing in C#.
 
-[Fiesta](https://github.com/lfknudsen/fiesta):
+![F# icon](fs_icon.png)[Fiesta](https://github.com/lfknudsen/fiesta):
 A tiny F# unit testing framework. Mostly made for fun; I tend to use XUnit or similar in practice.
 
-[LexGo](https://github.com/lfknudsen/LexGo)
+![Go icon](go_icon.png)[LexGo](https://github.com/lfknudsen/LexGo)
 A simple little lexer.
 
 ### Old programmes
 
-[Scar](https://github.com/lfknudsen/scar):
+![C icon](c_icon.png)[Scar](https://github.com/lfknudsen/scar):
 A small interpreter I wrote as an experiment in seeing how I would go about
 tackling such a project without looking up anything about compilers/interpreters.\
 I believe I broke it at some point while trying to add conditional statements;
 A good reminder to use dev branches. If nothing else, maybe someone will enjoy
 looking at my terrible old C code :)
 
-[MangaDB](https://github.com/lfknudsen/mangaDB):
+![Python icon](py_icon.png)[MangaDB](https://github.com/lfknudsen/mangaDB):
 A simple Flask website frontend and database backend for managing a book/comic collection.
 
 ## Environment
