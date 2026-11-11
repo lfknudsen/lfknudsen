@@ -103,6 +103,10 @@ the size of each - even the sub-directories.
 ![Python icon](py_icon.png)[Pykedex](https://github.com/lfknudsen/pykedex):
 A command-line Pokédex.
 
+![Python icon](py_icon.png)[Contour](https://github.com/lfknudsen/contour):
+Generate a corner-contour of a 2D image with a transparent background. I used this
+to generate collision boxes for a video-game.
+
 #### Time-related utilities (Go)
 
 ![Go icon](go_icon.png)[Timestamp](https://github.com/lfknudsen/timestamp):
