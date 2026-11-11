@@ -12,11 +12,11 @@ I have compiled a list of some of my public personal projects below, and I hope 
 I'm not particularly interested in LLMs, so you can be sure that any questionable code is my own ;)
 
 ### Currently working on:
-![Go icon](go_icon.png)[Gown](https://github.com/lfknudsen/gown):
+![Go icon](go_icon.png)[Gown](../gown):
 Universal download server. Also works as a standalone local command-line programme.\
 Fully functional, but I want to tie it to a message queue with a variable number of worker nodes.
 
-![Go icon](go_icon.png)[Convoy](https://github.com/lfknudsen/convoy):
+![Go icon](go_icon.png)[Convoy](../lfknudsen/convoy):
 Message queue intended to work with Gown.
 
 ![Go icon](go_icon.png)[Mark](https://github.com/lfknudsen/mark):
