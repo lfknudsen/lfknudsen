@@ -76,13 +76,19 @@ Easily generate a suitable `.gitignore` file.
 Generate a UUID that is automatically copied to your system clipboard.
 Can also generate multiple at once.
 
-![Go icon](go_icon.png)[Colour](https://github.com/lfknudsen/colour):
-Prints a table of ANSI colour codes.
-If a number is given, it will display that particular colour code's output.
+![Go icon](go_icon.png)[GMD](https://github.com/lfknudsen/gmd):
+Render Markdown in the terminal.
 
 ![Go icon](go_icon.png)[Optimg](https://github.com/lfknudsen/optimg):
 Optimises images using IrfanView and OptiPNG. Resamples exceedingly large files, converts .jpeg to
 .png, and performs serious lossless compression.
+
+![Go icon](go_icon.png)[Explain](https://github.com/lfknudsen/explain):
+An alternative to `man`.
+
+![Go icon](go_icon.png)[Colour](https://github.com/lfknudsen/colour):
+Prints a table of ANSI colour codes.
+If a number is given, it will display that particular colour code's output.
 
 ![Go icon](go_icon.png)[Status](https://github.com/lfknudsen/status):
 Reference HTTP status codes by searching for the code or name.
