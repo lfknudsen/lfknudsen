@@ -189,7 +189,6 @@ Some private university projects include:
 that supported registration and login via WhatsApp and e-mail. Also my first opportunity to try Scrum.
 - A minimal GDPR-compliant Twitter clone in C# and Asp.Net Core deployed to Azure.
 - A map and route-finding application written in Java with JavaFX.
-- User-driven design and development as we worked with real users of an existing application.
 
 ## Other hosts
 
