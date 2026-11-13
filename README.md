@@ -58,6 +58,8 @@ A minimal implementation of an algorithm for distributed database replication.
 
 ### CLI Utilities (Go, C, F#, Python)
 
+#### Development tools
+
 ![Go icon](go_icon.png)[Install](https://github.com/lfknudsen/install):
 Install files to your PATH by moving them to the same location as this executable.
 
@@ -72,16 +74,11 @@ Will retry once on failure.
 ![F# icon](fs_icon.png)[Gignore](https://github.com/lfknudsen/Gignore):
 Easily generate a suitable `.gitignore` file.
 
-![Go icon](go_icon.png)[GMD](https://github.com/lfknudsen/gmd):
-Render Markdown in the terminal.
-
-![Go icon](go_icon.png)[Optimg](https://github.com/lfknudsen/optimg):
-Optimises images using IrfanView and OptiPNG. Resamples exceedingly large files, converts .jpeg to
-.png, and performs serious lossless compression.
-
 ![Go icon](go_icon.png)[Guid/Uuid](https://github.com/lfknudsen/guid):
 Generate a UUID that is automatically copied to your system clipboard.
 Can also generate multiple at once.
+
+#### Reference tools
 
 ![Go icon](go_icon.png)[Explain](https://github.com/lfknudsen/explain):
 An alternative to `man`.
@@ -93,8 +90,7 @@ If a number is given, it will display that particular colour code's output.
 ![Go icon](go_icon.png)[Status](https://github.com/lfknudsen/status):
 Reference HTTP status codes by searching for the code or name.
 
-![C icon](c_icon.png)[Conv](https://github.com/lfknudsen/conv):
-Currency, weight, volume, and distance conversion in the command-line.
+#### File management
 
 ![Go icon](go_icon.png)[Gaze](https://github.com/lfknudsen/gaze):
 Lists all the video files in the current directory, displaying their resolution, frame-rate, and bit-rate.
@@ -103,15 +99,29 @@ Lists all the video files in the current directory, displaying their resolution,
 Lists all the files and sub-directories in the current directory, displaying
 the size of each - even the sub-directories.
 
+![Go icon](go_icon.png)[Optimg](https://github.com/lfknudsen/optimg):
+Batch image optimisation. Resamples exceedingly large files, converts .jpeg to
+.png, and performs thorough lossless compression.
+
 ![Go icon](go_icon.png)[NoTS](https://github.com/lfknudsen/nots):
 **No** **T**railing **S**paces - Removes trailing whitespace from input file(s).
 
-![Python icon](py_icon.png)[Pykedex](https://github.com/lfknudsen/pykedex):
-A command-line Pokédex.
+#### Image manipulation
 
 ![Python icon](py_icon.png)[Contour](https://github.com/lfknudsen/contour):
 Generate a corner-contour of a 2D image with a transparent background. I used this
 to generate collision boxes for a video-game.
+
+#### Assorted
+
+![C icon](c_icon.png)[Conv](https://github.com/lfknudsen/conv):
+Currency, weight, volume, and distance conversion in the command-line.
+
+![Go icon](go_icon.png)[GMD](https://github.com/lfknudsen/gmd):
+Render Markdown in the terminal.
+
+![Python icon](py_icon.png)[Pykedex](https://github.com/lfknudsen/pykedex):
+A command-line Pokédex.
 
 #### Time-related utilities (Go)
 
