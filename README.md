@@ -59,7 +59,7 @@ A minimal implementation of an algorithm for distributed database replication.
 ### CLI Utilities (Go, C, F#, Python)
 
 ![Go icon](go_icon.png)[Install](https://github.com/lfknudsen/install):
-Install files on your PATH by moving them to the same location as this executable.
+Install files to your PATH by moving them to the same location as this executable.
 
 ![Go icon](go_icon.png)[Repo](https://github.com/lfknudsen/repo):
 Conveniently create and update remote repositories with multiple hosts
@@ -72,16 +72,16 @@ Will retry once on failure.
 ![F# icon](fs_icon.png)[Gignore](https://github.com/lfknudsen/Gignore):
 Easily generate a suitable `.gitignore` file.
 
-![Go icon](go_icon.png)[Guid/Uuid](https://github.com/lfknudsen/guid):
-Generate a UUID that is automatically copied to your system clipboard.
-Can also generate multiple at once.
-
 ![Go icon](go_icon.png)[GMD](https://github.com/lfknudsen/gmd):
 Render Markdown in the terminal.
 
 ![Go icon](go_icon.png)[Optimg](https://github.com/lfknudsen/optimg):
 Optimises images using IrfanView and OptiPNG. Resamples exceedingly large files, converts .jpeg to
 .png, and performs serious lossless compression.
+
+![Go icon](go_icon.png)[Guid/Uuid](https://github.com/lfknudsen/guid):
+Generate a UUID that is automatically copied to your system clipboard.
+Can also generate multiple at once.
 
 ![Go icon](go_icon.png)[Explain](https://github.com/lfknudsen/explain):
 An alternative to `man`.
@@ -114,14 +114,14 @@ A command-line Pokédex.
 ![Go icon](go_icon.png)[Timestamp](https://github.com/lfknudsen/timestamp):
 Get the current Unix timestamp automatically copied to your system clipboard.
 
-![Go icon](go_icon.png)[Timer](https://github.com/lfknudsen/timer):
-Start a timer, displaying the time left. Plays a sound when finished.
-
-![Go icon](go_icon.png)[Stopwatch](https://github.com/lfknudsen/stopwatch):
-Start a stopwatch.
-
 ![Go icon](go_icon.png)[Clock](https://github.com/lfknudsen/clock):
 Print the current date and time.
+
+![Go icon](go_icon.png)[Timer](https://github.com/lfknudsen/clock):
+Start a timer, displaying the time left. Plays a sound when finished.
+
+![Go icon](go_icon.png)[Stopwatch](https://github.com/lfknudsen/clock):
+Start a stopwatch.
 
 ### Libraries
 
