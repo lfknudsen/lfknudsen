@@ -56,7 +56,7 @@ A minimal implementation of the Ricart & Agrawala distributed exclusion algorith
 ![Go icon](go_icon.png)[Distributed Replication](https://github.com/lfknudsen/Replication):
 A minimal implementation of an algorithm for distributed database replication.
 
-### CLI Utilities (Go, C, F#, Python)
+### CLI Utilities (Go, C, F#, Python, Rust)
 
 #### Development tools
 
@@ -123,7 +123,10 @@ Render Markdown in the terminal.
 ![Python icon](py_icon.png)[Pykedex](https://github.com/lfknudsen/pykedex):
 A command-line Pokédex.
 
-#### Time-related utilities (Go)
+#### Time-related utilities (Go, Rust)
+
+![Rust icon](rust_icon.png)[Cal](https://github.com/lfknudsen/cal):
+Print a calendar view of the current month to the terminal.
 
 ![Go icon](go_icon.png)[Timestamp](https://github.com/lfknudsen/timestamp):
 Get the current Unix timestamp automatically copied to your system clipboard.
