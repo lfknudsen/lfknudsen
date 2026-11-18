@@ -131,13 +131,9 @@ Print a calendar view of the current month to the terminal.
 ![Go icon](go_icon.png)[Timestamp](https://github.com/lfknudsen/timestamp):
 Get the current Unix timestamp automatically copied to your system clipboard.
 
-![Go icon](go_icon.png)[Clock](https://github.com/lfknudsen/clock):
+![Go icon](go_icon.png)[Clock/Timer/Stopwatch](https://github.com/lfknudsen/clock):
 Print the current date and time.
-
-![Go icon](go_icon.png)[Timer](https://github.com/lfknudsen/clock):
 Start a timer, displaying the time left. Plays a sound when finished.
-
-![Go icon](go_icon.png)[Stopwatch](https://github.com/lfknudsen/clock):
 Start a stopwatch.
 
 ### Libraries
