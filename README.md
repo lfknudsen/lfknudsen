@@ -9,7 +9,8 @@ and SQL, but I have also done a few things in languages like C++, Rust, and Type
 I have compiled a list of some of my public personal projects below, and I hope they can be helpful
  to your own development process or learning. Do not hesitate to make pull requests or open issues.
 
-I'm not particularly interested in LLMs, so you can be sure that any questionable code is my own ;)
+I'm not particularly interested in LLMs, so you can be sure that any questionable code is my own ;)\
+The colours indicate language.
 
 ### Currently working on:
 ![Go icon](go_icon.png)[Gown](https://github.com/lfknudsen/gown):
