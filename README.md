@@ -132,9 +132,7 @@ Print a calendar view of the current month to the terminal.
 Get the current Unix timestamp automatically copied to your system clipboard.
 
 ![Go icon](go_icon.png)[Clock/Timer/Stopwatch](https://github.com/lfknudsen/clock):
-Print the current date and time.
-Start a timer, displaying the time left. Plays a sound when finished.
-Start a stopwatch.
+Three utilities in the same project: Print the current date and time, set a timer, or start a stopwatch.
 
 ### Libraries
 
