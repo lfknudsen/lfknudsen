@@ -21,14 +21,13 @@ Fully functional, but I want to tie it to a message queue with a variable number
 Message queue intended to work with Gown.
 
 ![Go icon](go_icon.png)[Mark](https://github.com/lfknudsen/mark):
-Bookmark database and management thereof.\
-When used as a standalone local application, can also import bookmarks from your browsers.
+Bookmark management app and GraphQL server. Can import bookmarks from your browser.
 
 ![Go icon](go_icon.png)[Pact](https://github.com/lfknudsen/pact):
-A private package manager.
+A personal package manager.
 
 ![Go icon](go_icon.png)[Jade](https://github.com/lfknudsen/jade):
-Cloud drive akin to Dropbox, Mega, Google Drive, etc. - but better.
+Cloud drive akin to Dropbox, Mega, Google Drive, etc. - but better, of course.
 
 ![Go icon](go_icon.png)[Vauth](https://github.com/lfknudsen/vauth):
 Command-line password manager.
